@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+.wrapper{
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 15px;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
